@@ -1,2 +1,0 @@
-Invoking command in '/home/ariel/autonomy_ws/build/autonomy_repo': /usr/bin/cmake /home/ariel/autonomy_ws/src/autonomy_repo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ariel/autonomy_ws/install/autonomy_repo
-Invoked command in '/home/ariel/autonomy_ws/build/autonomy_repo' returned '1': /usr/bin/cmake /home/ariel/autonomy_ws/src/autonomy_repo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ariel/autonomy_ws/install/autonomy_repo
